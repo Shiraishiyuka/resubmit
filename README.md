@@ -43,6 +43,9 @@
 
 
 ### 5.storage ディレクトリに画像を保存
+#### storage/app/publicに商品画像を保存する用のimagesディレクトリを作成
+#### githubのimagesフォルダの画像を入れてください。
+#### storage/app/publicにユーザープロフィールのアイコン画像を保存するためのprofile_imagesディレクトリを作成
 #### php artisan storage:link
 
 
