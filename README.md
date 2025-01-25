@@ -63,7 +63,7 @@
 
 ### URL
 
-#### [開発環境] {http://localhost}
-#### [phpMyAdmin] {http://localhost:8080}
-#### [2段階認証メール] {http://localhost:8025}
+#### [開発環境] http://localhost
+#### [phpMyAdmin] http://localhost:8080
+#### [2段階認証メール] http://localhost:8025
 
